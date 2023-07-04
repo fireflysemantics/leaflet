@@ -86,7 +86,7 @@ export class AppComponent {
     //==============================
     // Add layers to map
     //==============================
-//    layers.addTo(map);
+    layers.addTo(map);
 
     return layers;
   }
